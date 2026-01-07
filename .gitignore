@@ -1,0 +1,14 @@
+# Data files
+*.csv
+*.db
+train.csv
+superstore.db
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# Python
+*.pyc
+*.pyo
+*.pyd
